@@ -1,0 +1,21 @@
+.th1{
+    background-color: aqua;
+}
+.th2{
+    background-color: aqua;
+}
+.th3{
+    background-color: aqua;
+}
+.tbody1{
+    background-color: rgb(255, 255, 255);
+}
+#body1{
+    background-color: bisque;
+}
+.nav1{
+    background-color: rgb(204, 195, 195);
+    text-align: center;
+    display: inline;
+    margin: auto;
+}

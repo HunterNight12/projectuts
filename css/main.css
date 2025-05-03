@@ -13,13 +13,12 @@
 #body1{
     background-color: hsla(29, 76%, 41%, 0.808);
 }
-.nav1{
-    text-align: center;
-    margin: auto;
-}
-.nav2{
-    text-align: center;
-    margin: auto;
+nav{
+    background-color: rgba(0, 0, 0, 0.267);
+    width: fit-content;
+    padding: 10px 20px;
+    margin: 0 auto;
+    font-size: 20px;
 }
 #body2{
     background-color: hsla(29, 76%, 41%, 0.808);
@@ -27,15 +26,9 @@
 #body3{
     background-color: hsla(29, 76%, 41%, 0.808);
 }
-.nav3{
-    text-align: center;
-    margin: auto;
-}
-.nav4{
-    text-align: center;
-    margin: auto;
-}
 #body4{
     background-color: hsla(29, 76%, 41%, 0.808);
 }
-
+a:hover{
+    color: white;
+}

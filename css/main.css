@@ -1,34 +1,57 @@
-.th1{
-    background-color: aqua;
+th{
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
-.th2{
-    background-color: aqua;
+.Download{
+    width: 100%;
+    overflow: auto;
 }
-.th3{
-    background-color: aqua;
+.Download a{
+    display: block;
+    float: left;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 12px 0;
+    text-align: center;
 }
 .tbody1{
     background-color: rgb(255, 255, 255);
 }
-#body1{
-    background-color: hsla(29, 76%, 41%, 0.808);
+body{
+    background-image: url(/images/istockphoto-1296377266-612x612.jpg);
+    background-size: 100%;
 }
-nav{
-    background-color: rgba(0, 0, 0, 0.267);
-    width: fit-content;
-    padding: 10px 20px;
-    margin: 0 auto;
-    font-size: 20px;
+.Nav{
+    width: 100%;
+    background-color: rgb(0, 0, 0);
+    overflow: auto;
 }
-#body2{
-    background-color: hsla(29, 76%, 41%, 0.808);
-}
-#body3{
-    background-color: hsla(29, 76%, 41%, 0.808);
-}
-#body4{
-    background-color: hsla(29, 76%, 41%, 0.808);
+.Nav a {
+    display: block;
+    float: left;
+    width: 20%;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 12px 0;
 }
 a:hover{
-    color: white;
+    color: red;
+}
+.Contact{
+    width: 100%;
+    overflow: auto;
+}
+.Contact a{
+    display: block;
+    float: left;
+    width: 33%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    padding: 12px 0;
+}
+a:hover{
+    color: rgb(255, 0, 0);
 }

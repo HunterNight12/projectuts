@@ -10,7 +10,7 @@ th{
     display: block;
     float: left;
     width: 100%;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     font-size: 15px;
     padding: 12px 0;
     text-align: center;
@@ -34,7 +34,7 @@ body{
     text-align: center;
     color: white;
     font-size: 15px;
-    padding: 12px 0;
+    padding: 12px 0; 
 }
 a:hover{
     color: red;
@@ -52,6 +52,6 @@ a:hover{
     font-size: 15px;
     padding: 12px 0;
 }
-a:hover{
-    color: rgb(255, 0, 0);
+.Contact a:hover{
+    color: rgb(0, 0, 0);
 }
